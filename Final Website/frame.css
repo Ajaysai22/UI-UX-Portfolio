@@ -1,0 +1,443 @@
+
+
+
+/* Global CSS  */
+
+.frame {
+  margin: 0;
+}
+
+.frame-main {
+  padding: 0 32px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+
+
+/* header Section */
+
+.frame-header {
+  background-color: #fff;
+  padding: 38px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: "Inter Tight";
+}
+
+.frame-header a img {
+  height: 32px;
+}
+
+
+/* Hero Section */
+
+
+
+.ajay-sai1 {
+  position: relative;
+  line-height: 19.2px;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+.based-in-chennai {
+  position: relative;
+  line-height: 20.8px;
+}
+
+
+.frame-icon {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+.frame-wrapper3 {
+  flex: 1;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 24px 0 0;
+}
+.uiux-designer {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.frame-parent4 {
+  align-self: stretch;
+  border-bottom: 1px solid #d9d9d9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 120px 0;
+  text-align: left;
+  font-size: 88px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: "Inter Tight";
+}
+.vectone-solutions-private {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.uiux-designer-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+}
+.i-have-experience,
+.now {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+}
+.i-have-experience {
+  line-height: 30.8px;
+}
+.now {
+  font-size: 14px;
+  font-weight: 500;
+  color: #979797;
+}
+.i-have-experience-working-on-p-parent {
+  align-self: stretch;
+  gap: 24px;
+  font-size: 15px;
+}
+.frame-parent6,
+.frame-wrapper5,
+.i-have-experience-working-on-p-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent6 {
+  width: 100%;
+  gap: 34px;
+  max-width: 400px;
+}
+.frame-wrapper5 {
+  flex: 1;
+  padding: 0 20px 0 0;
+}
+.about,
+.as-a-digital {
+  align-self: stretch;
+  position: relative;
+  line-height: 18.2px;
+}
+.as-a-digital {
+  margin: 0;
+  font-size: 26px;
+  line-height: 39.2px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.hello-there-im-ajay-sai-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.download-resume {
+  position: relative;
+  font-size: 16px;
+  line-height: 19.2px;
+  font-family: "Inter Tight";
+  color: rgba(0, 0, 0, 0.85);
+  text-align: left;
+}
+.download-resume-wrapper {
+  cursor: pointer;
+  border: 1px solid #d9d9d9;
+  padding: 18px 24px;
+  background-color: #fff;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent7 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 28px;
+}
+.about-parent,
+.frame-parent5,
+.frame-parent7,
+.frame-wrapper4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 34px;
+  font-size: 14px;
+}
+.frame-parent5,
+.frame-wrapper4 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-wrapper4 {
+  border-bottom: 2px solid #d9d9d9;
+  flex-direction: column;
+  padding: 60px 0;
+  text-align: left;
+  font-size: 28px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: "Inter Tight";
+}
+.selected-work {
+  margin: 0;
+  position: relative;
+  font-size: 28px;
+  line-height: 39.2px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.div,
+.image-icon,
+.seven {
+  position: relative;
+  flex-shrink: 0;
+}
+.image-icon {
+  align-self: stretch;
+  max-width: 100%;
+  overflow: hidden;
+  height: 381px;
+  object-fit: cover;
+}
+.div,
+.seven {
+  line-height: 21.8px;
+  display: inline-block;
+  width: 45px;
+}
+.div {
+  width: 37px;
+}
+.seven-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 0;
+}
+.frame-parent8,
+.image-parent,
+.selected-work-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-parent8,
+.selected-work-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.selected-work-parent {
+  border-bottom: 2px solid #d9d9d9;
+  flex-direction: column;
+  padding: 60px 0;
+  gap: 40px;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: "Inter Tight";
+}
+.mail {
+  color: inherit;
+  text-decoration: none;
+}
+.div6,
+.mail {
+  position: relative;
+  line-height: 19.2px;
+}
+.mail-parent {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.ajaysaiuxgmailcom1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 39.2px;
+  font-weight: 400;
+  font-family: inherit;
+  color: rgba(0, 0, 0, 0.4);
+}
+.dont-be-shy-lets-connect-to-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.changelog,
+.style-guide {
+  line-height: 19.2px;
+  color: inherit;
+  text-decoration: none;
+}
+.changelog {
+  position: relative;
+  display: inline-block;
+  width: 78px;
+  flex-shrink: 0;
+}
+.style-guide {
+  width: 80px;
+}
+.div7,
+.licenses,
+.style-guide {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.licenses {
+  font-size: 15px;
+  line-height: 19.2px;
+  color: inherit;
+  width: 63px;
+  text-decoration: none;
+}
+.div7 {
+  line-height: 20.8px;
+  width: 51px;
+}
+.changelog-parent {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 435px;
+  font-size: 16px;
+}
+.frame-parent11 {
+  flex: 1;
+  flex-direction: column;
+  gap: 57px;
+  font-size: 27px;
+}
+.frame-footer,
+.frame-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-footer {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 80px 0;
+  text-align: left;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: "Inter Tight";
+}
+
+
+@media screen and (max-width: 790px) {
+
+  .frame-main {
+    padding: 0 16px;
+  }
+  .frame-icon {
+    width: 217px;
+    height: 217px;
+  }
+  .frame-wrapper3,
+  .uiux-designer {
+    flex: unset;
+    align-self: stretch;
+  }
+  .uiux-designer {
+    font-size: 80px;
+  }
+  .frame-parent4 {
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .frame-parent6 {
+    width: 100%;
+  }
+  .frame-wrapper5 {
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .about-parent,
+  .frame-wrapper5 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-parent5 {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 60px;
+  }
+  .frame-wrapper4 {
+    gap: 30px;
+  }
+  .image-parent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-parent8 {
+    flex-direction: column;
+  }
+  .frame-parent11 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .frame-footer {
+    flex-direction: column;
+    gap: 80px;
+  }
+}
